@@ -1,8 +1,7 @@
-
-<!DOCTYPE html>
 <html>
-<body>
-  <h1>Chao Lin</h1>
-  <p>Welcome to my page!</p>
-</body>
+    <head>
+        <title> CHAO LIN <\title>
+    <body>
+    WELCOME TO MY PAGE
+    </body>
 </html>
