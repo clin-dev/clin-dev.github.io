@@ -2,11 +2,11 @@ const cvs = document.querySelector('canvas');
 const c = cvs.getContext('2d');
 
 cvs.width = window.innerWidth;
-cvs.height = window.innerHeight;
+cvs.height = window.innerHeight/2;
 
 window.addEventListener('resize', function() {
     cvs.width = window.innerWidth;
-    cvs.height = window.innerHeight;
+    cvs.height = window.innerHeight/2;
 });
 
 let mouse = {
